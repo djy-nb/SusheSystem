@@ -279,8 +279,7 @@ docker-compose up -d
 ```
 
 ## 开发团队
-
-- 智宿未来创新团队
+djy-nb
 
 ## 许可证
 
